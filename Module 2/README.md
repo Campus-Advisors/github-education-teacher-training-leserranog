@@ -15,8 +15,7 @@ In this module you will be introduced to GitHub. This module will cover:
 
 ### Module 2.1: Pushing to a Remote
 
-[:tv: Module 2.1 Video](https://youtu.be/R2bLo-KiYlU)
-
+[:tv: Module 2.1 Video](https://youtu.be/R2bLo-KiYlU){:target="_blank"}
 :notebook: Complete Module 2.1 Assignment
 
 ### Module 2.2: Fetching and Pulling from a Remote
